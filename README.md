@@ -41,6 +41,8 @@ Extracts property information, prices, locations, and specifications.
 ###  Contact
 Interested in working together?
 
-You can contact me through my GitHub profile.
+- **Email:** samadchandio14@gmail.com
+- **Upwork:** [View My Upwork Profile](https://www.upwork.com/freelancers/~01ced89b313dfb09a5)
+- **GitHub:** https://github.com/samadch2
 
-**GitHub:** https://github.com/samadch2
+Available for Python Web Scraping & Data Extraction projects.
